@@ -1,0 +1,27 @@
+.search-bar {
+    margin: 100px;
+    text-align: right;
+}
+
+.search-bar inout {
+    width: 100%;
+}
+
+.video-item img {
+    max-width: 70px;
+}
+
+.video-detail .details {
+    margin-top: 20px;
+    padding: 20px;
+    border: 3px solid rgb(247, 189, 218);
+    border-radius: 10px;
+}
+
+.list-group-item {
+    cursor: crosshair;
+}
+
+.list-group-item:hover {
+    background-color: coral;
+}
